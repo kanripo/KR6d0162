@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:09.169162
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:42
 #+TITLE: 十不二門文心解
 #+PROPERTY: CBETA_ID X56n0928
 #+PROPERTY: ID KR6d0162
